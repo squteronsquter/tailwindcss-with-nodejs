@@ -50,6 +50,20 @@ npm run build-css
 npx tailwindcss init --full
 ```
 
+## Rename the created tailwind.config.js file to something else to have access to default classes and generate a new empty config file
+
+```
+npx tailwindcss init
+```
+
+## Tweak your tailwindcss inside this file
+
+## Rebuild css
+
+```
+npm run build-css
+```
+
 
 ## That is it!
 
