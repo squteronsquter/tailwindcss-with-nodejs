@@ -44,6 +44,12 @@ npm run build-css
 
 ## Reprocess everytime you make changes to src/styles.css
 
+## To configure or tweak configuration of tailwind
+
+```
+npx tailwindcss init --full
+```
+
 
 ## That is it!
 
